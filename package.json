@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "gibberish-detective": "^1.0.3",
     "unorm": "^1.6.0"
   },
   "devDependencies": {

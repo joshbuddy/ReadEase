@@ -1032,6 +1032,11 @@ get-port@^4.2.0:
   resolved "https://registry.yarnpkg.com/get-port/-/get-port-4.2.0.tgz#e37368b1e863b7629c43c5a323625f95cf24b119"
   integrity sha512-/b3jarXkH8KJoOMQc3uVGHASwGLPq3gSFJ7tgJm2diza+bydJPTGOibin2steecKeOylE8oY2JERlVWkAJO6yw==
 
+gibberish-detective@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gibberish-detective/-/gibberish-detective-1.0.3.tgz#90f02ebb9390e4fb9056a2c54431bae254444fff"
+  integrity sha512-dUYC9iqf/YIrR4W8aG8J2YAt8+rvXTvQXv52aUTg6jkRMwZKKJiwJzKj9XGLlGAybeM5UrpeYoU+XbKDidXGPQ==
+
 globals@^13.2.0:
   version "13.20.0"
   resolved "https://registry.yarnpkg.com/globals/-/globals-13.20.0.tgz#ea276a1e508ffd4f1612888f9d1bad1e2717bf82"
